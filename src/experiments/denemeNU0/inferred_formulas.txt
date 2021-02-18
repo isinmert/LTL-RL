@@ -1,0 +1,9 @@
+Fa
+Fc
+Fb
+(Fa&(a->d))
+(Fa&Fc)
+F(c&Fa)
+(Fb&F(Fa&c))
+(Fb&F(c&Fa))
+(Fc&(Fb&Fa))

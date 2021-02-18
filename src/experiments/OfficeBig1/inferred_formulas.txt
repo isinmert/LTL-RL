@@ -1,0 +1,11 @@
+F(c)
+a
+Fc
+Fm
+Fo
+(Fc)U(o)
+(Fm)U(o)
+(Fc)U(m)
+(a&Fo)
+((Ft)U(o)&a)
+((Fc)U(m))U(o)

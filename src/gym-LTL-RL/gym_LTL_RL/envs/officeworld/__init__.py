@@ -1,0 +1,4 @@
+from gym_LTL_RL.envs.officeworld.officeworld_env import OfficeWorldDoorsTask1
+from gym_LTL_RL.envs.officeworld.officeworld_env import OfficeWorldDoorsTask2
+from gym_LTL_RL.envs.officeworld.officeworld_env import OfficeWorldBigTask1
+from gym_LTL_RL.envs.officeworld.officeworld_env import OfficeWorldTaskBCA

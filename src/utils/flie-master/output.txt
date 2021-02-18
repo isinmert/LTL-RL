@@ -1,0 +1,23 @@
+Script started on 2020-01-23 15:18:42-0600
+]0;isinmert@isin-notebook: ~/Desktop/flie-master[01;32misinmert@isin-notebook[00m:[01;34m~/Desktop/flie-master[00m$ python3 run_all_abaca.pyls[Katom ./[4Ptopkillall clingopython3 run_isa.py 'config/officeworld/visit_abacab.json'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ckillall clingo[Ktop[Kkillall clingo[3P clingotop[Kpython3 run_isa.py 'config/officeworld/visit_abaca.json'[11P'config/officeworld/visit_abaca.json'ls[Kcd src[4Plscd induction-subgoal-automata-rl-4/ls[Kcd Research/Documents/..[KDesktop/[7Pflie./flie -f traces/0031.trace -max 10 -vv[1P[1P[1@0[1@8
+----------------------------------------
+Solve new Iteration with number: 1
+finished making solver
+not satisfiable
+----------------------------------------
+Solve new Iteration with number: 2
+finished making solver
+not satisfiable
+----------------------------------------
+Solve new Iteration with number: 3
+finished making solver
+satisfiable
+!Fx0
+
+Own execution time: 0.185501
+Z3 execution time: 3.01431
+total execution time: 3.19981
+]0;isinmert@isin-notebook: ~/Desktop/flie-master[01;32misinmert@isin-notebook[00m:[01;34m~/Desktop/flie-master[00m$ exit
+exit
+
+Script done on 2020-01-23 15:19:39-0600

@@ -1,0 +1,14 @@
+Fa
+Fd
+Fb
+(Fb&Fd)
+((Fa->a)->GFa)
+(Fb&Fc)
+(Fb&Fa)
+F(c&Fb)
+(F(b&Fa)&(b->a))
+(F(Fa&b)&(b->a))
+((b->a)&F(b&Fa))
+(Fc&F(Fa&b))
+(F(b&Fa)&Fc)
+F(c&F(b&Fa))

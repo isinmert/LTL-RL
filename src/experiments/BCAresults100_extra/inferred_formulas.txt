@@ -1,0 +1,4 @@
+Fa
+Fb
+(Fa)U(b)
+((Fa)U(b))U(c)

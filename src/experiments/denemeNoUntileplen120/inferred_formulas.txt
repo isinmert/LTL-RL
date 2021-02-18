@@ -1,0 +1,7 @@
+Fa
+Fb
+Fc
+(Fa&Fb)
+(Fc&Fa)
+(Fb&Fc)
+F(Fa&b)

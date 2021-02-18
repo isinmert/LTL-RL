@@ -1,0 +1,9 @@
+Fa
+Fb
+Fc
+(Fa)U(c)
+(Fb)U(c)
+(Fa)U(b)
+(X(Xd->d))U(b)
+((Fa)U(c))U(d)
+((Fa)U(b))U(c)
